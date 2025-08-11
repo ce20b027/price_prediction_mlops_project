@@ -91,7 +91,7 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## What is this project doing (plain English)
+## What is this project doing ( In Simple terms)
 
 - It’s a **smart calculator** for house prices.
 - We **train** it using thousands of past house sales in Ames (with their features).
