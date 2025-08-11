@@ -1,4 +1,4 @@
-# Ames House Price – Mini (End-to-End MLOps Demo)
+# Ames House Price – Mini (End-to-End MLOps project)
 
 A tiny, reproducible end-to-end project that predicts **house sale price** using the **Ames Housing** dataset.  
 It mirrors a typical MLOps flow:
