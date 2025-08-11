@@ -7,9 +7,8 @@ It mirrors a typical MLOps flow:
 2. **Features** → numeric scale + categorical one-hot
 3. **Training** → RandomForest with metrics tracked in **MLflow**
 4. **Serving** → **FastAPI** endpoint for predictions
-5. **(Optional)** **Streamlit** UI to try inputs without code
+5.  **Streamlit** UI to try inputs without code
 
-> Perfect for learning or for a quick, portfolio-ready demo.
 
 ---
 
