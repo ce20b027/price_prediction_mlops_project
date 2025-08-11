@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Data and models
+data/
+models/
+mlruns/
+artifacts/
+mlflow.db
+
+# OS / Editor
+.DS_Store
+*.swp
